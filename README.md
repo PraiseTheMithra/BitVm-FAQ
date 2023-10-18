@@ -8,6 +8,11 @@ It is a virtual computer for use in bitcoin contracts. As a virtual computer, Bi
 ## Does BitVM make bitcoin like ethereum?
 
 No. BitVM programs are executed off-chain, unlike ethereum programs, which are executed on-chain. In BitVM, you only use the blockchain during a dispute, to prove that someone ran a program *incorrectly* off-chain, whereupon you can take their money. If your counterparty runs the program correctly, nothing about the program goes on the blockchain.
+## Can I use it today?
+although there's no need for any changes to be made to the bitcoin blockchain consensus rules, there's still a lot of work to do before BitVm can be used for any practical purposes, but you can check the toy implementation using testnet bitcoin for some simple programs [here](https://supertestnet.github.io/tapleaf-circuits/)
+
+## What would be the use case in the future?
+since BitVm introduces a way to do any computations, many of the use cases are not yet discovered, or certain but some very exciting and tangible use cases would be enabling sidechains, where you can send bitcoin back and forth with a better trust-model than what currently is available, improving the current infrastructure (e.g. Lightning Network), verifying ZKPs and emulating bitcoin improvement proposals.
 
 ## Where can I learn more?
 here are some reads:
