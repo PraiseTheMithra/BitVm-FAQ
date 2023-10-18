@@ -1,6 +1,13 @@
 # BitVm-FAQ
 less-technical frequently asked questions on [BitVm](https://bitvm.org/bitvm.pdf)
 
+## What is BitVM?
+
+It is a virtual computer for use in bitcoin contracts. As a virtual computer, BitVM can run programs. It can run anything a developer can write for it. What makes it unique is, it is compatible with bitcoin, meaning BitVM programs can be used to "lock up" bitcoins. In other words, you can put some money in a bitcoin address, and know that they only way someone can take it is if they correctly run a program of your choice -- *any program.*
+
+## Does BitVM make bitcoin like ethereum?
+
+No. BitVM programs are executed off-chain, unlike ethereum programs, which are executed on-chain. In BitVM, you only use the blockchain during a dispute, to prove that someone ran a program *incorrectly* off-chain, whereupon you can take their money. If your counterparty runs the program correctly, nothing about the program goes on the blockchain.
 
 ## Where can I learn more?
 here are some reads:
