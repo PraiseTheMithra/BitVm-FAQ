@@ -1,4 +1,4 @@
-# BitVm-FAQ
+# BitVM-FAQ
 less-technical frequently asked questions on [BitVm](https://bitvm.org/bitvm.pdf)
 
 ## What is BitVM?
@@ -13,6 +13,9 @@ although there's no need for any changes to be made to the bitcoin blockchain co
 
 ## What would be the use case in the future?
 since BitVm introduces a way to do any computations, many of the use cases are not yet discovered, or certain but some very exciting and tangible use cases would be enabling sidechains, where you can send bitcoin back and forth with a better trust-model than what currently is available, improving the current infrastructure (e.g. Lightning Network), verifying ZKPs and emulating bitcoin improvement proposals.
+
+## Is there any roadmap?
+there's no roadmap per say, but you can find the todolist [here](https://github.com/supertestnet/things-bitvm-needs), if you want to get a grasp of what the future holds. 
 
 ## Where can I learn more?
 here are some reads:
