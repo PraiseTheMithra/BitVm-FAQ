@@ -22,6 +22,7 @@ here are some reads:
 - [whitepaper](https://bitvm.org/bitvm.pdf)
 - [WIP implementation](https://github.com/supertestnet/tapleaf-circuits/)
 - [bitcoin magazine explainer](https://bitcoinmagazine.com/technical/the-big-deal-with-bitvm-arbitrary-computation-now-possible-on-bitcoin-without-a-fork)
+- [BitVM Primer (Non-technical)](https://github.com/twhit223/bitvm_primer)
 - [simple explainer](https://github.com/fiksn/bitvm-explained)
 - [LN+ explainer](https://lightningnetwork.plus/posts/450)
 - [base58 explainer](https://twitter.com/base58btc/status/1711728898730242112)
